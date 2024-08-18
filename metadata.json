@@ -4,5 +4,6 @@
     "project_description": "A social media site for rabbits",
     "creation_time": "2024-08-18 14:45:07.879654",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "stellar"
+    "selected_starter_template_id": "stellar",
+    "frontend_theme_prompt": "The image depicts a surreal, cosmic landscape with a dominant color scheme of vibrant pinks and purples, blending with dark blues and blacks, creating an otherworldly, dreamlike atmosphere. Bold, contrasting hues emphasize the celestial bodies and terrain, enhancing the fantastical, ethereal style."
 }
