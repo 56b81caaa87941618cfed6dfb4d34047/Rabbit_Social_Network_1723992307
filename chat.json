@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want all text throughout the entire site to be changed to red, or only specific sections or types of text (e.g., headings, links)?\", \"option1\": \"Change all text throughout the entire site to red.\", \"option2\": \"Change only specific sections/types of text to red.\"}, {\"question 2\": \"Please specify the shade of red you prefer. Do you have a particular hex code in mind, or would you like us to choose a standard/web-safe red color?\", \"option1\": \"I have a specific hex code in mind.\", \"option2\": \"Please choose a standard/web-safe red color.\"}], \"input_token_count\": 271, \"output_token_count\": 143, \"time_taken\": \"0:00:02.987590\"}",
+        "message_id": "guest18082024144704",
+        "timestamp": "18082024144708",
+        "component_file_name": "purple_background_cta_component_1723992310",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "I'll change all the text to red as requested.",
         "message_id": "guest18082024144704",
