@@ -12,5 +12,11 @@
         "content": "Change all the text to red",
         "timestamp": "18082024144705",
         "message_id": "guest18082024144704"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "I'll change all the text to red as requested.",
+        "timestamp": "18082024144705",
+        "message_id": "guest18082024144704"
     }
 ]
