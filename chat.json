@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "I'll change all the text to red as requested.",
+        "message_id": "guest18082024144704",
+        "timestamp": "18082024144705",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change all the text to red",
         "message_id": "guest18082024144704",
